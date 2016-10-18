@@ -1,4 +1,4 @@
-i#!/bin/bash
+#!/bin/bash
 cd /home/z/proyectos/
 git status
 git add .
