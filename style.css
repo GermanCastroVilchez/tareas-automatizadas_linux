@@ -1,22 +1,29 @@
-body{
-	background:rgba(222,122,122,0.7); 
-
-}
-h1,h2,h3{
-	color: rgba(22,2,2,0.6);
+body {
+    background: rgba(222, 122, 122, 0.7);
 }
 
-div{
-	background: rgba(0,200,0,0.5);
+h1,
+h2,
+h3 {
+    color: rgba(22, 2, 2, 0.6);
 }
-section{
 
-background: rgba(0,0,200,0.6);
+div {
+    background: rgba(0, 200, 0, 0.5);
 }
-nav{
-	background:rgba(0,34,60,0.2);
+
+section {
+    background: rgba(0, 0, 200, 0.6);
 }
-ul li a{
-	text-decoration: none;
-	float: left;
+
+nav {
+    background: rgba(0, 34, 60, 0.2);
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul li {
+    float: left;
 }
