@@ -1,1 +1,1 @@
-scrip.js
+alert("hello wordl");
