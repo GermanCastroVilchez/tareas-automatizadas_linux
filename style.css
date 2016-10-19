@@ -6,5 +6,8 @@ h1{
 	font-size: 90px;
 }
 .cuadrado{
-	
+	width: 100px;
+	height: 100px;
+	background: green;
+
 }
